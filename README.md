@@ -1,10 +1,9 @@
-# decision-support-system
-Decision Support System — Projects, Quizzes, Midterm | Geomatika University College, Malaysia (Bachelor's CSE 2020)
+
 # 🖥️ Decision Support System (DSS)
 
 **Geomatika University College (GUC) — Kuala Lumpur, Malaysia**  
-**Subject:** Decision Support System | Subject Code: BCDS 3143  
-**Student:** Md Azizul Rahaman | Bachelor of Computer Science (CSE) | 2021
+**Subject:** Decision Support System 
+**Student:** Md Azizul Rahaman | Bachelor of Computer Science (CSE) | 2020
 
 ---
 
